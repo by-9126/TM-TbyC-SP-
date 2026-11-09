@@ -1,0 +1,10 @@
+1 Laptop 596
+2 Mouse 533
+3 Keyboard 335
+4 Monitor 347
+5 Headset 438
+6 Webcam 542
+7 Charger 333
+8 Cable 331
+9 Speaker 458
+10 Tablet 595
